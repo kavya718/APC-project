@@ -1,21 +1,37 @@
-# APC Project
+# ➕ Arbitrary Precision Calculator (APC)
 
-An Arbitrary Precision Calculator (APC) project developed in C to perform calculations on very large numbers.
+A calculator application built in **C** that performs arithmetic operations on **very large integers** beyond the limits of standard C data types. It represents numbers using **linked lists**, allowing calculations on integers of virtually unlimited size.
 
-## Features
-- Large integer arithmetic
-- Addition, subtraction, multiplication
-- Linked list implementation
-- High precision calculations
+## ✨ Features
 
-## Technologies Used
-- C Programming
-- Linked Lists
-- Data Structures
+➕ **Large Number Addition** – Adds integers of arbitrary length
 
-## Applications
-- Scientific calculations
-- Large number computations
+➖ **Large Number Subtraction** – Performs subtraction on large integers
 
-## Author
-Kavya P
+✖️ **Large Number Multiplication** – Multiplies numbers exceeding built-in data type limits
+
+📋 **Linked List Representation** – Stores each digit dynamically using linked lists
+
+⚡ **Efficient Arithmetic Operations** – Performs digit-by-digit calculations with carry and borrow handling
+
+📥 **User Input Processing** – Accepts large integer inputs from the command line
+
+🧩 **Modular Design** – Separate modules for arithmetic operations, linked list management, and utilities
+
+## 🛠️ Core Concepts Covered
+
+Linked Lists
+
+Dynamic Memory Allocation
+
+Pointers
+
+Data Structures
+
+String Manipulation
+
+Arithmetic Algorithms
+
+Carry & Borrow Operations
+
+Big Integer Representation
